@@ -1,7 +1,5 @@
 # Agrim Jain — Personal Portfolio
 
-A minimal, dark-themed portfolio for Agrim Jain, a first-year B.Tech Computer Science & Engineering student at KIET (2026–2030).
-
 ## Features
 
 - Responsive layout for desktop and mobile
